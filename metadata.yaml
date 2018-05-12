@@ -1,0 +1,41 @@
+_repo: L-enfer--2-of-2-La-Divine-Com-die---Traduit-par-Rivarol_22769
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rivarol, Antoine
+    alias: Rivarol', Antuan de
+    birthdate: 1753
+    deathdate: 1801
+    gutenberg_agent_id: '25530'
+    url: http://www.gutenberg.org/2009/agents/25530
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Littérature
+gutenberg_issued: '2007-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22769'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Hell'
+title: 'L''enfer (2 of 2)
+
+  La Divine Comédie - Traduit par Rivarol'
+url: http://www.gutenberg.org/ebooks/22769
