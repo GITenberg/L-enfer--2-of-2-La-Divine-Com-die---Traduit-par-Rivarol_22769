@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22769#L-enfer--2-of-2-La-Divine-Com-die---Traduit-par-Rivarol
 gutenberg_bookshelf:
 - FR Poésie
 - FR Littérature
